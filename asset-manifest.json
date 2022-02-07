@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "./static/css/main.8058d914.css",
+    "main.js": "./static/js/main.4706f780.js",
+    "static/media/feiticaria.png": "./static/media/feiticaria.d1ebff8694ab4e330443.png",
+    "index.html": "./index.html",
+    "main.8058d914.css.map": "./static/css/main.8058d914.css.map",
+    "main.4706f780.js.map": "./static/js/main.4706f780.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8058d914.css",
+    "static/js/main.4706f780.js"
+  ]
+}
