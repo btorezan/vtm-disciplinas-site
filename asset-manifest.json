@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/vtm-disciplinas-site/static/css/main.8058d914.css",
-    "main.js": "/vtm-disciplinas-site/static/js/main.1c37fdae.js",
+    "main.css": "/vtm-disciplinas-site/static/css/main.ad47d821.css",
+    "main.js": "/vtm-disciplinas-site/static/js/main.ba709df7.js",
     "static/media/feiticaria.png": "/vtm-disciplinas-site/static/media/feiticaria.d1ebff8694ab4e330443.png",
     "index.html": "/vtm-disciplinas-site/index.html",
-    "main.8058d914.css.map": "/vtm-disciplinas-site/static/css/main.8058d914.css.map",
-    "main.1c37fdae.js.map": "/vtm-disciplinas-site/static/js/main.1c37fdae.js.map"
+    "main.ad47d821.css.map": "/vtm-disciplinas-site/static/css/main.ad47d821.css.map",
+    "main.ba709df7.js.map": "/vtm-disciplinas-site/static/js/main.ba709df7.js.map"
   },
   "entrypoints": [
-    "static/css/main.8058d914.css",
-    "static/js/main.1c37fdae.js"
+    "static/css/main.ad47d821.css",
+    "static/js/main.ba709df7.js"
   ]
 }
